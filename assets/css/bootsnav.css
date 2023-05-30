@@ -43,7 +43,7 @@ nav.bootsnav .dropdown.megamenu-fw .dropdown-menu {
 }
 
 nav.navbar .quote-btn a {
-  background: #0cb8b6 none repeat scroll 0 0;
+  background: #cb008d none repeat scroll 0 0;
   border-radius: 5px;
   color: #ffffff;
   display: inline-block;
@@ -93,7 +93,7 @@ nav.bootsnav.navbar-sidebar.bg-dark ul.nav li.dropdown h6 {
 }
 
 nav.navbar.navbar-default.navbar-theme.navbar-sticky.bootsnav.on.no-full {
-    background: #0cb8b6;
+    background: #cb008d;
 }
 
 nav.navbar.navbar-default.navbar-theme.navbar-sticky.bootsnav.on.no-full ul.nav > li > a {
@@ -105,7 +105,7 @@ nav.navbar.navbar-default.navbar-theme.navbar-sticky.bootsnav.on.no-full .attr-n
 }
 
 .attr-nav ul.cart-list li.total a {
-  background: #0cb8b6 none repeat scroll 0 0;
+  background: #cb008d none repeat scroll 0 0;
   display: inline-block;
   font-weight: 600 !important;
   padding: 12px 15px;
@@ -113,7 +113,7 @@ nav.navbar.navbar-default.navbar-theme.navbar-sticky.bootsnav.on.no-full .attr-n
 }
 
 .attr-nav ul.cart-list li.total a:hover {
-  background: #0cb8b6 none repeat scroll 0 0 !important;
+  background: #cb008d none repeat scroll 0 0 !important;
   color: #ffffff !important;
 }
 
@@ -321,7 +321,7 @@ nav.navbar.attr-border .attr-nav {
 }
 
 .navbar.bootsnav .attr-nav li.btn a {
-  background: #0cb8b6 none repeat scroll 0 0;
+  background: #cb008d none repeat scroll 0 0;
   color: #ffffff;
   display: inline-block;
   font-size: 13px;
@@ -396,7 +396,7 @@ nav.navbar.attr-border.bootsnav.sticked .attr-nav {
 }
 
 .attr-nav > ul > li > a span.badge {
-  background-color: #0cb8b6;
+  background-color: #cb008d;
   color: #ffffff;
   height: 20px;
   line-height: 20px;
@@ -494,7 +494,7 @@ ul.cart-list > li.total > span {
 }
 
 .navbar.bg-dark .top-search {
-  background: #0cb8b6 none repeat scroll 0 0;
+  background: #cb008d none repeat scroll 0 0;
 }
 
 .top-search form {
@@ -645,7 +645,7 @@ body.on-side .body-overlay {
 }
 
 .navbar .side .widget li a:hover {
-  color: #0cb8b6;
+  color: #cb008d;
 }
 
 nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
@@ -670,7 +670,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 }
 
 .navbar .side .widget.social li a:hover {
-  background: #0cb8b6 none repeat scroll 0 0;
+  background: #cb008d none repeat scroll 0 0;
   color: #ffffff;
 }
 
@@ -746,7 +746,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
   background: #f4f4f4 none repeat scroll 0 0;
   border: 1px solid #e7e7e7;
   border-radius: 5px;
-  color: #0cb8b6;
+  color: #cb008d;
   font-size: 20px;
   height: 50px;
   line-height: 48px;
@@ -775,7 +775,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 }
 
 .navbar .side .widget h4::after {
-  background: #0cb8b6 none repeat scroll 0 0;
+  background: #cb008d none repeat scroll 0 0;
   bottom: -2px;
   content: "";
   height: 2px;
@@ -805,7 +805,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown > a.dropdown-toggle::after {
 }
 
 .side .widget ul.link li a {
-  color: #0cb8b6;
+  color: #cb008d;
   display: block;
   font-weight: bold;
   letter-spacing: 1px;
@@ -850,7 +850,7 @@ nav.navbar.bootsnav .share ul > li > a {
 }
 
 nav.navbar.bootsnav .share.dark ul > li > a {
-  background-color: #0cb8b6;
+  background-color: #cb008d;
   color: #ffffff;
 }
 
@@ -859,7 +859,7 @@ nav.navbar.bootsnav.color-yellow .share.dark ul > li > a {
 }
 
 nav.navbar.bootsnav .share ul > li > a:hover {
-  color: #0cb8b6;
+  color: #cb008d;
 }
 
 nav.navbar.bootsnav.color-yellow .share ul > li > a:hover {
@@ -1015,7 +1015,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.nav > li.active > a {
-    color: #0cb8b6;
+    color: #cb008d  ;
   }
 
   nav.navbar.bootsnav.color-yellow ul.nav > li.active > a {
@@ -1028,7 +1028,7 @@ nav.navbar.bootsnav {
 
   nav.navbar.bootsnav.active-full ul.nav > li > a.active,
     nav.navbar.bootsnav.active-full ul.nav > li > a:hover {
-    background: #0cb8b6 none repeat scroll 0 0 !important;
+    background: #cb008d none repeat scroll 0 0 !important;
     color: #ffffff;
   }
 
@@ -1042,7 +1042,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.nav > li > a:hover {
-    color: #0cb8b6;
+    color: #cb008d;
   }
 
   nav.navbar.bootsnav.color-yellow ul.nav > li > a:hover {
@@ -1124,7 +1124,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.navbar-right li.dropdown ul.dropdown-menu li a:hover {
-    color: #0cb8b6;
+    color: #cb008d;
   }
 
   nav.navbar.bootsnav.color-yellow ul.navbar-right li.dropdown ul.dropdown-menu li a:hover {
@@ -1132,7 +1132,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.navbar-left li.dropdown ul.dropdown-menu li a:hover {
-    color: #0cb8b6;
+    color: #cb008d;
   }
 
   nav.navbar.bootsnav.color-yellow ul.navbar-left li.dropdown ul.dropdown-menu li a:hover {
@@ -1225,7 +1225,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover {
-    color: #0cb8b6;
+    color: #cb008d;
   }
 
   nav.navbar.bootsnav.color-yellow ul.dropdown-menu.megamenu-content .content ul.menu-col li a:hover {
@@ -1513,7 +1513,7 @@ nav.navbar.bootsnav {
   }
 
   nav.bootsnav.navbar-sidebar ul.nav > li > a:hover {
-    color: #0cb8b6;
+    color: #cb008d;
   }
 
   nav.bootsnav.navbar-sidebar.color-yellow ul.nav > li > a:hover {
@@ -1781,7 +1781,7 @@ nav.navbar.bootsnav {
 
   nav.navbar.bootsnav ul.nav li.dropdown > ul.dropdown-menu li:hover > a {
     background-color: transparent !important;
-    color: #0cb8b6 !important;
+    color: #cb008d !important;
   }
 
   nav.navbar.bootsnav.color-yellow ul.nav li.dropdown > ul.dropdown-menu li:hover > a {
@@ -2300,7 +2300,7 @@ nav.navbar.bootsnav {
 }
 
 .attr-nav.menu li:last-child a {
-  background: #0cb8b6 none repeat scroll 0 0;
+  background: #cb008d none repeat scroll 0 0;
   border-radius: 30px;
   color: #ffffff !important;
   padding: 5px 20px !important;
