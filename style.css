@@ -127,7 +127,7 @@ a img, iframe {
 }
 
 p {
-  color: #666666;
+  color: #000;
   line-height: 26px;
   margin: 0 0 15px;
   text-transform: none;
@@ -2246,7 +2246,7 @@ body,
   height: 100%;
   width: 100%;
   z-index: -1;
-  background: #a2e600;
+  background: #cb008d;
 }
 
 .services-area.inc-icon .item:hover::after {
@@ -2271,7 +2271,7 @@ body,
 }
 
 .services-area.inc-icon .item:hover a.btn {
-  color: #ffffff !important;
+  color: #000 !important;
   border-color: #ffffff;
 }
 
