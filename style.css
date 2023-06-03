@@ -2246,7 +2246,7 @@ body,
   height: 100%;
   width: 100%;
   z-index: -1;
-  background: #cb008d;
+  background: #1ab7ea;
 }
 
 .services-area.inc-icon .item:hover::after {
@@ -5989,3 +5989,14 @@ footer .footer-bottom .social li a:hover {
   .class="texxt"{
     align-items: ;
   }
+
+  .social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px;
+}
