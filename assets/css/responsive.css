@@ -402,19 +402,19 @@
 
   /* Heading */
   h1 {
-    font-size: 30px;
-  }
-
-  h2 {
     font-size: 26px;
   }
 
+  h2 {
+    font-size: 16px;
+  }
+
   h3 {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   h4 {
-    font-size: 18px;
+    font-size: 14px;
     line-height: 1.4;
   }
 
@@ -484,7 +484,7 @@
   }
 
   .breadcrumb-area {
-    padding: 100px 0;
+    padding: 40px 0;
   }
 
   .breadcrumb-area h1 {
@@ -601,6 +601,7 @@
   .banner-area.heading-exchange .content h3, 
   .banner-area.heading-exchange .content h4 {
     margin-bottom: 20px;
+    
   }
 
   .banner-area.responsive-auto-height, 
@@ -628,7 +629,7 @@
   }
 
   .banner-area.heading-exchange .content h1 {
-    font-size: 36px;
+    font-size: 24px;
   }
 
   .banner-area .double-content .content {

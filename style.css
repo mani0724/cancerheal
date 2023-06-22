@@ -523,8 +523,8 @@ input {
 }
 
 .bg-fixed {
-  background-attachment: fixed;
-  background-position: inherit;
+  background-attachment: scroll;
+
   background-size: cover;
 }
 
@@ -806,7 +806,7 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
      # Bradcrumb 
 =================================================================== */
 .breadcrumb-area {
-  padding:200px 0;
+  padding:220px 0;
 }
 
 .breadcrumb-area .breadcrumb {
