@@ -4067,7 +4067,7 @@ body,
 }
 
 .gallery-area .gallery-items.col-3 .pf-item {
-  float: left;
+  float: right;
   padding: 15px;
   width: 33.3333%;
 }
@@ -4079,13 +4079,13 @@ body,
 }
 
 .gallery-area .gallery-items.col-4 .pf-item {
-  float: left;
+  float: right;
   padding: 15px;
   width: 25%;
 }
 
 .gallery-area .gallery-items.col-6 .pf-item {
-  float: left;
+  float: right;
   padding: 15px;
   width: 16.6666%;
 }
