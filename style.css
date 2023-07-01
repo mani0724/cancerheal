@@ -4073,7 +4073,7 @@ body,
 }
 
 .gallery-area .gallery-items.col-2 .pf-item {
-  float: left;
+  float: right;
   padding: 15px;
   width: 50%;
 }
